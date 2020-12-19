@@ -202,3 +202,23 @@ margin-top: 100px;
     color: #35465d;
     margin: 0 auto;
 }
+
+.js-clock{
+	text-align: center;
+}
+
+.kakao_ad_area{
+	text-align: center;
+}
+
+
+.form{	
+	display: none;
+}
+
+.greetings {
+	display:none;
+}
+.showing{
+	display: block;
+}
